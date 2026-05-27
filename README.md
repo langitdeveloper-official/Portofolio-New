@@ -85,7 +85,7 @@ const langit = {
 
 <img src="https://files.catbox.moe/lv2stn.jpg" width="250" style="border-radius:20px" alt="Preview Portfolio LangitDev"/>
 
-> 🔗 **[Lihat Langsung →](https://langitdeveloper-official.github.io)**
+> 🔗 **[Lihat Langsung →](https://langitdeveloper-official.github.io/tester/)**
 
 </div>
 
